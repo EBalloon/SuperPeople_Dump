@@ -1,0 +1,54 @@
+
+
+#Registry
+
+    HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\SideBySide -> PreferExternalManifest
+    HKLM\SOFTWARE\Microsoft\Cryptography -> MachineGuid
+    HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\WT -> check
+    HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion -> ProductId
+    HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion  -> InstallDate
+    HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion -> DigitalProductId
+    HKLM\System\CurrentControlSet\Services\Tcpip\Parameters -> Hostname
+    HKLM\System\CurrentControlSet\Services\Tcpip\Parameters -> Domain
+    HKCU\SOFTWARE\Hex-Rays\IDA -> History64
+    HKLM\SOFTWARE\Microsoft\SystemCertificates\AuthRoot\AutoUpdate -> PinRulesEncodedCtl
+    HKLM\HARDWARE\DEVICEMAP\VIDEO -> \Device\Video0
+    HKLM\System\CurrentControlSet\Enum\DISPLAY\AUS25A4\5&8995717&0&UID45315 -> HardwareID
+    HKLM\System\CurrentControlSet\Enum\DISPLAY\AUS25A4\5&8995717&0&UID45315 -> Driver
+    HKLM\System\CurrentControlSet\Enum\PCI\VEN_10DE&DEV_1E81&SUBSYS_C7241462&REV_A1\4&2ae1b128&0&0019 -> HardwareID
+    HKLM\System\CurrentControlSet\CONTROL\VIDEO\{3D596102-5851-11EC-9A6F-806E6F6E6963}\0002
+    HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\SystemCertificates\Disallowed\CTLs\27748148BBE67A43CDBFEC6C3784862CE134E6EA -> Blob
+    HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Cryptography\OID\EncodingType 0\CertDllCreateCertificateChainEngine\Config -> CrlPreFetch
+    HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\wtbt
+    HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\SecurityManager\TransientObjects\%5C%5C.%5CRpc%5CAllowLpacAppExperience%5CInterface" -> SecurityDescriptor
+
+
+#Files/Folders
+
+    ..\Steam\steamapps\common\SUPER PEOPLE Playtest\BravoHotelGame\Binaries\Win64\Registry
+    ..\Steam\steamapps\common\SUPER PEOPLE Playtest\BravoHotelGame\Binaries\Win64\MemCompression
+    ...\Steam\steamapps\common\SUPER PEOPLE Playtest\BravoHotelGame\Binaries\Win64\øÿÿÿÿÿÿÿ
+    C:\Users\%UserName%\AppData\Local\Temp\UECrashContext-16772.xml
+    C:\Users\%UserName%\AppData\Roaming\Microsoft\SystemCertificates\My
+    C:\Users\%UserName%\AppData\Local\NVIDIA\DXCache
+    C:\Users\%UserName%\AppData\Local\D3DSCache\a59e0f4ebd2ab467\F4EB2D6C-ED2B-4BDD-AD9D-F913287E6768.val
+    C:\Users\%UserName%\AppData\Local\BravoHotelGame\Intermediate\DatasmithContentTemp\*
+    C:\Users\%UserName%\AppData\Local\BravoHotelGame\Saved\BravoHotelGame_PCD3D_SM5.upipelinecache.jnl
+    C:\Users\%UserName%\AppData\Local\BravoHotelGame\Saved\BravoHotelGame_PCD3D_SM5.upipelinecache
+    C:\Users\%UserName%\AppData\Roaming\WonderPeople
+    C:\Program Files (x86)\WonderPeople
+    C:\ProgramData\WonderPeople
+    C:\Users\%UserName%\AppData\Local\GeeGee
+
+#Device
+
+    \??\Me
+    \??\Re
+    \??\pipe\geegee_local_server
+    \Device\Afd\AsyncConnectHlp
+    \Device\Afd\Endpoint
+    \Device\DeviceApi\CMNotify
+    \Device\DeviceApi\Dev\Query
+    \Device\MMCSS\MmThread
+    \Device\RasAcd
+    \Device\HarddiskVolume3\EFI\Microsoft\Boot\bootmgfw.efi

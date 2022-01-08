@@ -1,0 +1,22 @@
+ntdll.NtReadFile                                        - jmp 7FF945940015 { BravoHotelClient-Win64-Shipping.protected.exe+0x7B6B3D0 } - Function (BravoHotelClient-Win64-Shipping.protected.exe+0x8F63772)
+ntdll.NtClose                                           - jmp 7FF9459F0015 { BravoHotelClient-Win64-Shipping.protected.exe+0x7B5B820 } - Function (BravoHotelClient-Win64-Shipping.protected.exe+0x8F60405)
+ntdll.NtQueryObject                                     - jmp 7FF945A00015 { BravoHotelClient-Win64-Shipping.protected.exe+0x7B5B880 } - Function (BravoHotelClient-Win64-Shipping.protected.exe+0x7B5B880)
+ntdll.NtQueryInformationFile                            - jmp 7FF945950015 { BravoHotelClient-Win64-Shipping.protected.exe+0x7B6B210 } - Function (BravoHotelClient-Win64-Shipping.protected.exe+0x8F6349E)
+ntdll.NtQueryVirtualMemory                              - jmp 7FF9459E0015 { BravoHotelClient-Win64-Shipping.protected.exe+0x7B6B5C0 } - Function (BravoHotelClient-Win64-Shipping.protected.exe+0x8F63AE6)
+ntdll.NtSetInformationFile                              - jmp 7FF945970015 { BravoHotelClient-Win64-Shipping.protected.exe+0x7B6B290 } - Function (BravoHotelClient-Win64-Shipping.protected.exe+0x8F63563)
+ntdll.ZwMapViewOfSection                                - jmp 7FF9459C0015 { BravoHotelClient-Win64-Shipping.protected.exe+0x7B6B4D0 } - Function (BravoHotelClient-Win64-Shipping.protected.exe+0x8F6394F)
+ntdll.ZwUnmapViewOfSection                              - jmp 7FF9459D0015 { BravoHotelClient-Win64-Shipping.protected.exe+0x7B6B550 } - Function (BravoHotelClient-Win64-Shipping.protected.exe+0x8F63A27)
+ntdll.ZwOpenFile                                        - jmp 7FF945930015 { BravoHotelClient-Win64-Shipping.protected.exe+0x7B6B1D0 } - Function (BravoHotelClient-Win64-Shipping.protected.exe+0x8F6342F)
+ntdll.NtQueryDirectoryFile                              - jmp 7FF945980015 { BravoHotelClient-Win64-Shipping.protected.exe+0x7B6B2D0 } - Function (BravoHotelClient-Win64-Shipping.protected.exe+0x8F635C9)
+ntdll.ZwQueryAttributesFile                             - jmp 7FF945900015 { BravoHotelClient-Win64-Shipping.protected.exe+0x7B6B110 } - Function (BravoHotelClient-Win64-Shipping.protected.exe+0x7B9137A)
+ntdll.ZwQueryVolumeInformationFile                      - jmp 7FF945960015 { BravoHotelClient-Win64-Shipping.protected.exe+0x7B6B250 } - Function (BravoHotelClient-Win64-Shipping.protected.exe+0x8F634F2)
+ntdll.NtCreateSection                                   - jmp 7FF9459A0015 { BravoHotelClient-Win64-Shipping.protected.exe+0x7B6B440 } - Function (BravoHotelClient-Win64-Shipping.protected.exe+0x8F63839)
+ntdll.ZwQuerySection                                    - jmp 7FF9459B0015 { BravoHotelClient-Win64-Shipping.protected.exe+0x7B6B490 } - Function (BravoHotelClient-Win64-Shipping.protected.exe+0x8F638E0)
+ntdll.NtCreateFile                                      - jmp 7FF945920015 { BravoHotelClient-Win64-Shipping.protected.exe+0x7B6B150 } - Function (BravoHotelClient-Win64-Shipping.protected.exe+0x8F63333)
+ntdll.ZwQueryDirectoryFileEx                            - jmp 7FF945990015 { BravoHotelClient-Win64-Shipping.protected.exe+0x7B6B350 } - Function (BravoHotelClient-Win64-Shipping.protected.exe+0x8F636AF)
+ntdll.ZwQueryFullAttributesFile                         - jmp 7FF945910015 { BravoHotelClient-Win64-Shipping.protected.exe+0x7B6B130 } - Function (BravoHotelClient-Win64-Shipping.protected.exe+0x8AB789A)
+ntdll.DbgUiRemoteBreakin                                - jmp 7FF945A1000F { BEClient_x64.dll+0x73E60 }                                - Function (BEClient_x64.dll+73E60)
+
+
+
+
